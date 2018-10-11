@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'FCLib'
-  s.version          = '0.1.1'
+  s.version          = '0.1.2'
   s.summary          = '创建私有库FCLib'
 
 # This description is used to generate tags and improve search results.
@@ -36,7 +36,7 @@ Pod::Spec.new do |s|
   #   'FCLib' => ['FCLib/Assets/*.png']
   # }
 
-  s.public_header_files = 'FCLib/Classes/Tools/JATool.h'
+  s.public_header_files = 'FCLib/Classes/**/*.h'
   # s.frameworks = 'UIKit', 'MapKit'
   # s.dependency 'AFNetworking', '~> 2.3'
 end

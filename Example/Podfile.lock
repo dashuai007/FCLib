@@ -4,7 +4,7 @@ PODS:
   - FBSnapshotTestCase/Core (2.1.4)
   - FBSnapshotTestCase/SwiftSupport (2.1.4):
     - FBSnapshotTestCase/Core
-  - FCLib (0.1.0)
+  - FCLib (0.1.2)
   - Kiwi (3.0.0)
 
 DEPENDENCIES:
@@ -23,9 +23,9 @@ EXTERNAL SOURCES:
 
 SPEC CHECKSUMS:
   FBSnapshotTestCase: 094f9f314decbabe373b87cc339bea235a63e07a
-  FCLib: af89af91d36a3b0983e8928389ff47d30536f9d4
+  FCLib: dc13ea992d7729d47f926c4d218595dac00c7366
   Kiwi: fbeafef0f00e4d8f7dcb3420a4930afe70af77f7
 
-PODFILE CHECKSUM: 2d8502f4fd0397337ae5668b6440a01a82c90b2a
+PODFILE CHECKSUM: cf2b1f796f929d30a64fccd8c2363327a2065773
 
 COCOAPODS: 1.5.3

@@ -1,8 +1,8 @@
 {
   "name": "FCLib",
-  "version": "0.1.0",
-  "summary": "A short description of FCLib.",
-  "description": "TODO: Add long description of the pod here.",
+  "version": "0.1.2",
+  "summary": "创建私有库FCLib",
+  "description": "这是一个view的extension，提高开发效率",
   "homepage": "https://github.com/dashuai007/FCLib",
   "license": {
     "type": "MIT",
@@ -13,10 +13,11 @@
   },
   "source": {
     "git": "https://github.com/dashuai007/FCLib.git",
-    "tag": "0.1.0"
+    "tag": "0.1.2"
   },
   "platforms": {
-    "ios": "8.0"
+    "ios": "10.0"
   },
-  "source_files": "FCLib/Classes/**/*"
+  "source_files": "FCLib/Classes/**/*",
+  "public_header_files": "FCLib/Classes/**/*.h"
 }
