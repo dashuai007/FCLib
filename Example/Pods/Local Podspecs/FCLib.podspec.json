@@ -1,0 +1,22 @@
+{
+  "name": "FCLib",
+  "version": "0.1.0",
+  "summary": "A short description of FCLib.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/dashuai007/FCLib",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "dashuai007": "zhangshuai11241@163.com"
+  },
+  "source": {
+    "git": "https://github.com/dashuai007/FCLib.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "FCLib/Classes/**/*"
+}
